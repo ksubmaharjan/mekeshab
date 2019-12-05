@@ -51,4 +51,4 @@ exclude:
 
 include: [_pages]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
